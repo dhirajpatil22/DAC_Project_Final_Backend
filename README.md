@@ -1,9 +1,5 @@
 
-FOR THE SET UP OF PROJECT, PLEASE FOLLOW THE SET UP GUIDE VIDEO PROPERLY WITHOUT SKIPPING ANYTHING.
 
-SET UP GUIDE VIDEO LINK: https://drive.google.com/file/d/1iGVpV7ltrU7RBcuJ0nDdCxF7AebYAhNG/view?usp=drive_link
-
-Request access for the set up guide video, because it is private
 
 -----------------------------------------------------------------------
 
@@ -16,7 +12,7 @@ Befor starting the project set up, make sure you have properly installed the bel
 
 -----------------------------------------------------------------------
 
-As shown on video, For running frontend we have to use [npm start] command.
+ For running frontend we have to use [npm start] command.
 
 1) After hitting [npm start] command, when we get [Error: cannot find module react], 
 
@@ -66,24 +62,5 @@ Email Id: demo.admin@demo.com
 Password: 123456
 
 
-PROJECT YOUTUBE VIDEO LINK: https://www.youtube.com/watch?v=IYNdcUSbMW8
-
-And Lastly, Go through the Code and try to understand the Code, it will help alot:)
-
------------------------------------------------------------------------
-
-If you face any issue during set up, please do contact me:
-
-Contact Details:
-
-Email Id: codewithmurad@gmail.com
-Instagram: https://www.instagram.com/codewithmurad/
-Facebook: https://www.facebook.com/codewithmurad/
-Telegram: https://t.me/codewithmurad
-Whatsapp: http://wa.me/917304353428
-Discord:https://discord.com/invite/9TPphFmGMh
 
 
-ONCE SET UP IS DONE, PLEASE DO SUBSCRIBE MY YOUTUBE CHANNEL: https://www.youtube.com/@CodeWithMurad
-
-*********** THANK YOU ***********
